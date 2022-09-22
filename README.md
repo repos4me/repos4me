@@ -1,22 +1,14 @@
 ### Hi there 👋
 
-<!--
-**openrepo4u/openrepo4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### :man_technologist: About Me :
-
+🔭 Tech-savvy and analytical professional with substantial experience developing websites and mobile applications by using a variety
+of tools, front-end user, and programming interfaces. 👯 Proven success managing software development lifecycle from requirement
+gathering to project execution, planning, building, and debugging applications from system design to writing end-to-end tests, and
+configuring desktop and other access privileges. 📫 Demonstrated expertise in JavaScript/Typescript, React.js, React Native, and Blockchain
+(NFT, ETH, DeFi), developing applications for Android & iOS and creating fast user interfaces for websites and applications using React
+framework. Strong communication organizational, and troubleshooting skills with distinctive ability to fix problems/issues as well
+as build enduring relationships with software engineers, key stakeholders, senior management, clients/users, and colleagues.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
