@@ -1,11 +1,11 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/?username=openrepo4u&style=flat-square&color=blue" alt=""/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/alex-hong-a1b7b3244/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=openrepo4u&style=flat-square&color=blue" alt=""/>
   </div>
 
 </div>
