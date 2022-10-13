@@ -51,6 +51,5 @@ as build enduring relationships with software engineers, key stakeholders, senio
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=openrepo4u&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=openrepo4u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
