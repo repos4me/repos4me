@@ -1,17 +1,16 @@
 <h1>
-  Hey there!
+  Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 ### :man_technologist: About Me :
--🔭 Tech-savvy and analytical professional with substantial experience developing websites and mobile applications by using a variety
-of tools, front-end user, and programming interfaces. 
+-🔭 Tech-savvy and analytical professional with substantial experience developing websites and mobile applications by using a variety of tools, front-end user, and programming interfaces. 
 
--:writing_hand: Proven success managing software development lifecycle from requirement gathering to project execution, planning, building, and debugging applications from system design to writing end-to-end tests, and configuring desktop and other access privileges. 📫 Demonstrated expertise in JavaScript/Typescript, React.js, and React Native, developing applications for Android & iOS and creating fast user interfaces for websites and aplications using React framework. 
+- :writing_hand: Proven success managing software development lifecycle from requirement gathering to project execution, planning, building, and debugging applications from system design to writing end-to-end tests, and configuring desktop and other access privileges. 
+- 📫 Demonstrated expertise in JavaScript/Typescript, React.js, and React Native, developing applications for Android & iOS and creating fast user interfaces for websites and aplications using React framework. 
 
--👯 Strong communication organizational, and troubleshooting skills with distinctive ability to fix problems/issues as well
-as build enduring relationships with software engineers, key stakeholders, senior management, clients/users, and colleagues.
+-👯 Strong communication organizational, and troubleshooting skills with distinctive ability to fix problems/issues as well as build enduring relationships with software engineers, key stakeholders, senior management, clients/users, and colleagues.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
